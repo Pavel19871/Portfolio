@@ -58,5 +58,6 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
 
 ![изображение](https://github.com/Pavel19871/Portfolio/blob/main/body_script.png)
 ![изображение](https://github.com/Pavel19871/Portfolio/blob/main/test_script.png)
-![изображение](https://github.com/
+![изображение](https://github.com/Pavel19871/Portfolio/blob/main/test_script.png)
+
 
