@@ -91,4 +91,6 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
 - JavaScript (для написания простых скриптов для проверки ответов сервера в Postman),
 - Jira (для фиксирования баг-репортов).
 
+  Ссылка на проект https://drive.google.com/file/d/1uq6d--Sw4XkB_wzEp85mDr6RdkumCGw5/view?usp=sharing
+
 
