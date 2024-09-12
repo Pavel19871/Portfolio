@@ -39,12 +39,12 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
 
 Познакомились с инструментами:
 
-Postman,
-Swagger,
-SOAP UI,
-cURL,
-DevTools,
-Jmeter.
+-Postman,
+-Swagger,
+-SOAP UI,
+-cURL,
+-DevTools,
+-Jmeter.
 
 Выполненные учебные проекты:
 
