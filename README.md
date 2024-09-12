@@ -57,5 +57,6 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
 Использование переменных в URL-адресе, в теле запроса, в скриптах пред-запроса и тестов
 
 ![изображение](https://github.com/Pavel19871/Portfolio/blob/main/body_script.png)
+![изображение](https://github.com/Pavel19871/Portfolio/blob/main/test_script.png)
 ![изображение](https://github.com/
 
