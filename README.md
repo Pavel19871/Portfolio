@@ -115,4 +115,4 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
 
 Финальная проект по автоматизации на Python
 
-Ссылка на репозиторий проекта
+Ссылка на репозиторий проекта https://github.com/Pavel19871/final-python
