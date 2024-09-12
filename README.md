@@ -93,4 +93,14 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
 
   Ссылка на проект: “Основы тестирования и тестирования API”   https://drive.google.com/file/d/1uq6d--Sw4XkB_wzEp85mDr6RdkumCGw5/view?usp=sharing
 
+ - Приемочные, Смоук, API тестирование: тест-кейсы - Выгрузка pdf  https://drive.google.com/file/d/1jvg7IMNREdXNzxpwQ7AlAL6doGqQLKpB/view?usp=sharing,   
+                                                                   https://docs.google.com/document/d/1L_bmMHWpPtCNqQCZGq5zi_2aSI3WSWoFvbLkv7TU1V4/edit?usp=sharing
+   
+   
+ - Функциональное и нефункциональное тестирование: чек-лист - https://docs.google.com/spreadsheets/d/190OeBpgy88UMqC9PX4vEMY9ipocnEV5Bhhm2QCjk4Vo/edit?usp=sharing
+                                                            - https://docs.google.com/spreadsheets/d/1jT9-hUECLaa2fSjPMX_ZblL0uTs8nzuY39mGWxbTHvA/edit?usp=sharing
+   
 
+ - Бак-репорты    https://docs.google.com/spreadsheets/d/10BoJ722VvwskV_vv0bLjdlg2kX8yXs9dIuAKKhZIdh0/edit?usp=sharing
+
+Итоговая работа по ручному тестированию сайта КиноПоиск https://drive.google.com/file/d/1-22U4imv0VPFE7vDXARQww_Bzxtyfxvp/view?usp=sharing
