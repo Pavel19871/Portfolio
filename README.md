@@ -104,3 +104,15 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
  - Бак-репорты    https://docs.google.com/spreadsheets/d/10BoJ722VvwskV_vv0bLjdlg2kX8yXs9dIuAKKhZIdh0/edit?usp=sharing
 
 Итоговая работа по ручному тестированию сайта КиноПоиск https://drive.google.com/file/d/1-22U4imv0VPFE7vDXARQww_Bzxtyfxvp/view?usp=sharing
+
+
+Проект SQL
+
+Задачи:
+
+составить запросы на получение информации по заданным условиям   https://docs.google.com/document/d/1N3udAUxZUXNqhdd5sx18h3TnyqIJnB4a/edit?usp=sharing&ouid=109216325855277793395&rtpof=true&sd=true
+
+
+Финальная проект по автоматизации на Python
+
+Ссылка на репозиторий проекта
