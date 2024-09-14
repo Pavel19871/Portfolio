@@ -35,7 +35,6 @@
 -join
 -подзапросы
 
-https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/edit
 
 Познакомились с инструментами:
 
