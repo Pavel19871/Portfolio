@@ -101,7 +101,7 @@ https://docs.google.com/document/d/1w87HvFlgx631MQMMDkERliO10tkCGmjx8gn4OWhOEwI/
                                                             - https://docs.google.com/spreadsheets/d/1jT9-hUECLaa2fSjPMX_ZblL0uTs8nzuY39mGWxbTHvA/edit?usp=sharing
    
 
- - Бак-репорты    https://docs.google.com/spreadsheets/d/10BoJ722VvwskV_vv0bLjdlg2kX8yXs9dIuAKKhZIdh0/edit?usp=sharing
+ - Баг-репорты    https://docs.google.com/spreadsheets/d/10BoJ722VvwskV_vv0bLjdlg2kX8yXs9dIuAKKhZIdh0/edit?usp=sharing
 
 Итоговая работа по ручному тестированию сайта КиноПоиск https://drive.google.com/file/d/1-22U4imv0VPFE7vDXARQww_Bzxtyfxvp/view?usp=sharing
 
